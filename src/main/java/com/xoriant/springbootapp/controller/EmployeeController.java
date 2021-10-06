@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.xoriant.springbootapp.model.Employee;
 import com.xoriant.springbootapp.service.EmployeeService;
 
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://ems-react-webapp.herokuapp.com/")
 @RestController
 public class EmployeeController {
 
