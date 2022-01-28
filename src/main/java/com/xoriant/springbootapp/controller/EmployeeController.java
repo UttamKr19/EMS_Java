@@ -59,6 +59,14 @@ public class EmployeeController {
 	public void deleteEmployee(@PathVariable String id) {
 		service.deleteEmployee(Integer.parseInt(id));
 	}
+
+	//-------------------------------------------------------------------------------------
+	@PostMapping("/dummy")
+	public void addDummyData(@RequestBody Employee[] employees) {
+		for(Employee employee:employees) {
+			service.addEmployee(employee);
+		}
+	}
 }
 
 
