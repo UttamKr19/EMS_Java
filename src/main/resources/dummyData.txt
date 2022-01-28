@@ -1,0 +1,103 @@
+[
+    {
+        "employeeId": 1,
+        "employeeName": "Uttam Kumar",
+        "salary": 50000.0,
+        "address": "Bihar, India",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 2,
+        "employeeName": "John Doe",
+        "salary": 50000.0,
+        "address": "Nowhere",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 3,
+        "employeeName": "Bruce Banner",
+        "salary": 50000.0,
+        "address": "Kolkata, India",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Chemicals",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 4,
+        "employeeName": "Tony Stark",
+        "salary": 50000.0,
+        "address": "NY, USA",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 5,
+        "employeeName": "Clark Kent",
+        "salary": 50000.0,
+        "address": "Krypton",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 6,
+        "employeeName": "Bruce Wayne",
+        "salary": 50000.0,
+        "address": "Gotham, USA",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 7,
+        "employeeName": "Peter Parker",
+        "salary": 50000.0,
+        "address": "Brooklyn, USA",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 8,
+        "employeeName": "Uttam Kumar",
+        "salary": 50000.0,
+        "address": "Bihar, India",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 9,
+        "employeeName": "Uttam Kumar",
+        "salary": 50000.0,
+        "address": "Bihar, India",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    },
+	{
+        "employeeId": 10,
+        "employeeName": "Uttam Kumar",
+        "salary": 50000.0,
+        "address": "Bihar, India",
+        "photoUrl": "https://i.stack.imgur.com/jF1hK.jpg?s=64&g=1",
+        "department": "Engineering",
+        "dateOfJoining": "01/08/2021",
+        "dateOfBirth": "10/10/1999"
+    }
+    
+]
